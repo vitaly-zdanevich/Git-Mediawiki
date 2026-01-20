@@ -11,7 +11,7 @@ You need to have the following Perl packages installed:
 
 On many distributions of Linux, these can be installed from packages `libmediawiki-api-perl` and `libdatetime-format-iso8601-perl`, respectively.
 
-For Gentoo-based Linux distributions they can be installed by emerging `dev-perl/MediaWiki-API` and `dev-perl/DateTime-Format-ISO8601`.
+For Gentoo-based Linux distributions [the ebuild is available](https://github.com/microcai/gentoo-zh/tree/master/dev-vcs/git-remote-mediawiki).
 
 On OS X, they can be installed using the CPAN installation tool:
 
